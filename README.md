@@ -10,6 +10,6 @@ This is a shell script to gather basic system performance statistics such as CPU
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/server-stats.git
+   git clone https://github.com/phillip-inv/server-stats.git
    cd server-stats
 
