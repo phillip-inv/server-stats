@@ -13,3 +13,4 @@ This is a shell script to gather basic system performance statistics such as CPU
    git clone https://github.com/phillip-inv/server-stats.git
    cd server-stats
 
+https://roadmap.sh/projects/server-stats
